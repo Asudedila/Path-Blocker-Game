@@ -6,7 +6,7 @@ Solves mazes using the BFS algorithm.
 Generates images showing the path from start to goal step-by-step.
 If no solution exists, generates an image indicating that the target is unreachable.
 Customizable maze sizes and levels.
-Structure
+Structure 
 The project is composed of the following classes:
 
 1. Maze
